@@ -2,7 +2,7 @@
   "name": "MCP Server Store",
   "servers": [
     {
-      "id": "0382561b-2746-4ab2-ad7c-0b6de5efef51",
+      "id": "windowsperformance",
       "name": "Windows Performance",
       "description": "A MCP server will return Windows performance statistics from the current Windows machine.",
       "url": "https://github.com/wtrsltnk/WindowsPerformanceMcpServer/archive/refs/heads/main.zip",
