@@ -4,7 +4,7 @@
     {
       "name": "Windows Performance",
       "description": "A MCP server will return Windows performance statistics from the current Windows machine.",
-      "url": "https://github.com/wtrsltnk/WindowsPerformanceMcpServer"
+      "url": "https://github.com/wtrsltnk/WindowsPerformanceMcpServer",
       "runCommand": {
         "command": "dotnet",
         "args": [
