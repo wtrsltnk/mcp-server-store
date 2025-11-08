@@ -10,7 +10,7 @@
         "args": [
           "run",
           "--project",
-          "${ServerPath}\WindowsPerformanceMcpServer\WindowsPerformanceMcpServer.csproj"
+          "${ServerPath}\\WindowsPerformanceMcpServer\\WindowsPerformanceMcpServer.csproj"
         ]
       }
     }
